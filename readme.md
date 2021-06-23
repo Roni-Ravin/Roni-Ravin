@@ -1,2 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roni-Ravin&show_icons=true&theme=tokyonight)
-
+![](https://visitor-badge.laobi.icu/badge?page_id=Roni-Ravin.Roni-Ravin)
